@@ -1,5 +1,5 @@
-End to End Machine Learning Project 
-https://obesitypredictor.azurewebsites.net/predictdata
+End to End Machine Learning Project - 
+[https://obesitypredictor.azurewebsites.net/predictdata](https://obese-predictor.azurewebsites.net/predictdata)
 
 
 
